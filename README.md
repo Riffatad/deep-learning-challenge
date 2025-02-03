@@ -39,7 +39,7 @@ charity_optimization_model.keras: The saved model from Starter_Code.ipynb, which
 
 #### Instructions to Run the Project
 
-1. Run Starter_Code.ipynb
+#### 1. Run Starter_Code.ipynb
 
 Loads the dataset and performs preprocessing.
 
@@ -51,7 +51,7 @@ Builds and trains a simple neural network.
 
 Saves the trained model in .keras format.
 
-2. Run AlphabetSoupCharity_Optimization.ipynb
+#### 2. Run AlphabetSoupCharity_Optimization.ipynb
 
 Applies hyperparameter tuning using Keras Tuner.
 
@@ -107,7 +107,7 @@ Implement dropout layers to prevent overfitting.
 
 Test alternative machine learning models such as Random Forest or XGBoost for comparison.
 
-Conclusion
+## Conclusion
 
 This project demonstrates the impact of deep learning on charity donation predictions. The optimized model provides an improved accuracy rate through hyperparameter tuning, making it a valuable tool for donation classification tasks.
 
