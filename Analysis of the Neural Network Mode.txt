@@ -106,4 +106,5 @@ Provide feature importance analysis, aiding interpretability.
 
 6. Conclusion
 
-The neural network successfully predicted donation success with optimized hyperparameters leading to a 2% accuracy improvement. Future enhancements could include testing different model architectures and using alternative machine learning techniques for better interpretability and performance.
+The neural network successfully predicted donation success with optimized hyperparameters leading to a 2% accuracy improvement. 
+Future enhancements could include testing different model architectures and using alternative machine learning techniques for better interpretability and performance.
